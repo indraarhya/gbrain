@@ -8,6 +8,6 @@ title: Indra Haryadi Idris
 Panggilan: Indra.
 Suku: Bugis.
 Domisili: Makassar, Sulawesi Selatan (WITA).
-Tertarik: AI, teknologi, properti.
+Tertarik: AI, teknologi, otomotif, sepakbola, Mobilr Legend.
 Punya server Linux dengan Hermes Agent.
 Ingin AI assistant konsisten di Telegram & WhatsApp (Hermira).
