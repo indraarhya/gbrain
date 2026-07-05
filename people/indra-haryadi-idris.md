@@ -11,3 +11,9 @@ Domisili: Makassar, Sulawesi Selatan (WITA).
 Tertarik: AI, teknologi, otomotif, sepakbola, Mobile Legend.
 Punya server Linux dengan Hermes Agent.
 Ingin AI assistant konsisten di Telegram & WhatsApp (Hermira).
+
+## Minat Detail
+- **AI & Teknologi** — AI agent, gbrain, Hermes, DeepSeek
+- **Otomotif** — berita otomotif Indonesia & global
+- **Sepakbola** — mengikuti perkembangan bola
+- **Mobile Legend** — main game (bukan "Mobilr")
